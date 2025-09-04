@@ -16,7 +16,7 @@
 
 ---
 
-⚠️ Note: I solved the following challenges: **Discord, OSINT 1, OSINT 2, OSINT 3, Brr v1, Orcam, Rogue Poller, Register Sweep, Simple Protocol**. My teammates solved additional challenges as well, but they were busy and couldn’t write full writeups. For now, only 3 OSINT challenges and Discord are properly documented. The Discord one is more of a bonus, showing how modern CTFs sneak in subtle traps rather than giving flags in plain text.  
+⚠️ Note: I solved the following challenges: **Discord, OSINT 1, OSINT 2, OSINT 3, Brr v1, Orcam, Rogue Poller, Register Sweep, Simple Protocol**. Got busy with other work during/after the CTF, so didn’t grab all the files for full writeups. My teammates solved additional challenges as well, but they were busy and couldn’t write full writeups. For now, only 3 OSINT challenges and Discord are properly documented. The Discord one is more of a bonus, showing how modern CTFs sneak in subtle traps rather than giving flags in plain text.  
 
 
 
